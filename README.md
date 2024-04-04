@@ -27,7 +27,7 @@ The project "Passenger Traffic Analysis in Bus Transport System" aims to delve i
 - **Git and GitHub:** Version control and collaborative platform for managing the project's source code.
 
 ## Methodology/Design 📝
-The methodology of the project follows a systematic approach, including data collection, preprocessing, analysis, visualization, and reporting. It adheres to IEEE standard practices for robustness and clarity.
+The methodology of the project follows a systematic approach, including data collection, preprocessing, analysis, visualization, and reporting.
 
 ## Algorithm and Pseudocode 🤖
 The algorithmic approach involves sequential steps such as data collection, preprocessing, route analysis, resource allocation analysis, data visualization, pattern recognition, correlation analysis, and optimization recommendations.
